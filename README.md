@@ -7,4 +7,5 @@
 
 1. https://asyncpraw.readthedocs.io/en/latest/
 2. https://github.com/reddit-archive/reddit/wiki/API
+3. https://www.wallstreetbets.shop/blogs/news/dissecting-the-unique-lingo-and-terminology-used-in-the-subreddit-r-wallstreetbets
 
